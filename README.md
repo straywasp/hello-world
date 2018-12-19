@@ -1,2 +1,2 @@
 # hello-world
-Following the tutorial like a good student
+Turning bad things into good. Making changes like a lizard.
